@@ -9,7 +9,7 @@ function AboutMe() {
           <img src="./assets/img/user1.png" alt="User" />
         </div>
         <div className="right">
-          <h2>Kiran Gautam</h2>
+          <h2>Avilekh Kunwar</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, labore
             eveniet, odio cupiditate iusto dolorum, cum saepe vitae voluptates
