@@ -6,7 +6,7 @@ function Header() {
       <div className="flex logo">
         <div>
           <h1>
-            <a href="#hero">Kiran</a>
+            <a href="#hero">Avilekh</a>
           </h1>
         </div>
         <div className="line"></div>
