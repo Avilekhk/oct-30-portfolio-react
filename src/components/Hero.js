@@ -7,7 +7,7 @@ function Hero() {
     <section className="section1" id="hero">
       <div className="hero flex">
         <div className="left flex">
-          <div className="name">Hi, I am Kiran Gautam</div>
+          <div className="name">Hi, I am Avilekh Kunwar</div>
           <div className="tag">Software Engineer</div>
           <div className="sub-tag">I love coding and teaching...</div>
           <button>
