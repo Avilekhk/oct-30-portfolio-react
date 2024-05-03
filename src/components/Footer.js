@@ -26,7 +26,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="https://www.linkedin.com/in/kiran-gautam/"
+                href="https://www.linkedin.com/in/avilekhk/"
                 target="_blank"
                 rel="noreferrer"
               >
